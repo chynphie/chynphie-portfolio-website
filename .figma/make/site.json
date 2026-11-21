@@ -1,0 +1,10 @@
+{
+  "description": "A personal portfolio showcasing an individual’s introduction, experience, projects, and fun facts to help visitors get to know their work and personality.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
